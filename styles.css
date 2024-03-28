@@ -211,7 +211,8 @@ label {
     background-color: #959581;
     padding: 7px;
     border-radius: 10px;
-    width: 83%;
+    width: 380px;
     margin-top: 400px;
     position: static;
+    margin-left: 20px;
 }
